@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel Crews, @crewsdw
-- 👀 I’m interested in solving data analysis, numerical methods, and more!
+- 👀 I’m interested in data analysis, numerical methods, and more!
 - 📫 How to reach me: dcrews@uw.edu
 
 <!---
